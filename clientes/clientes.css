@@ -1,0 +1,6 @@
+/* Estilo relacionado ao módulo de clientes */
+
+    .td,objeto.observacao {
+    width: 15px; /* Opcional: ajusta a largura se necessário */
+    height: 15px; /* Opcional: ajusta a altura se necessário */
+}
